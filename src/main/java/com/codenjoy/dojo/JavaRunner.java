@@ -38,12 +38,12 @@ public class JavaRunner {
     private static Logger log = LoggerFactory.getLogger(JavaRunner.class);
 
     // Select your game
-    private String game = "mollymage";
+    private String game = "knibert";
 
     // Paste here board page url from browser after registration,
     // or put it as command line parameter.
     private String url =
-            "http://127.0.0.1:8080/codenjoy-contest/board/player/0?code=000000000000";
+            "https://dojorena.io/codenjoy-contest/board/player/dojorena3865?code=3617362763906695268";
 
     public void run(String[] args) {
         System.out.println("+-----------------+");
